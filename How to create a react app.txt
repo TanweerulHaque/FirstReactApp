@@ -1,0 +1,9 @@
+navigate to your desired directory where react apps wwil be created
+
+Write this command then - 
+
+1) create-react-app react-complete-guide --scripts-version 1.1.5
+
+react-complete-guide = "App's name"
+create-react-app = "What we installed through npm"
+--scripts-version 1.1.5 = "Folder structure that react creates initially"
